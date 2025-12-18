@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <Version>2025.5.1</Version>
+    <Authors>SACFiscal</Authors>
+    <Company>SACFiscal &amp; Automação</Company>
+    <Description>Brazilian Tax Library</Description>
+    <PackageIcon>ico.png</PackageIcon>
+    <RepositoryType>git</RepositoryType>
+    <LangVersion>preview</LangVersion>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>C:\Users\Marco Polo\OneDrive - sacfiscal.com.br\SACFiscal\sacfiscal</AssemblyOriginatorKeyFile>
+    <AssemblyVersion>2022.8.2</AssemblyVersion>
+    <FileVersion>2022.8.2</FileVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/sacfiscal/FiscalNet.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/sacfiscal/FiscalNet/</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\OneDrive - sacfiscal.com.br\SACFiscal\ico.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
