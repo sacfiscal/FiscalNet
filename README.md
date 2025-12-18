@@ -20,6 +20,7 @@ Este projeto é mantido utilizando a linguagem CSharp com .Net Standard e tem o 
 - IPI
 - PIS
 - COFINS
+- IBS/CBS
 
 Recomendamos que os cálculos sejam validados pelo contador da empresa que utilizará a biblioteca.
 
